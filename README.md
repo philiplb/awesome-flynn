@@ -41,6 +41,7 @@ This is a curated list of awesome Flynn related links.
 
 - **To add, remove, or change things on the list:** Submit a pull request which will be reviewed and merged.
 - Or just open an [issue](https://github.com/philiplb/awesome-flynn/issues).
+- Categories should be sorted alphabetically.
 - List items should be sorted alphabetically within its category.
 - Each item should be limited to one link.
 - The link should be the name of the title of the howto/project/link.
