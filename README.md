@@ -7,17 +7,17 @@ This is a curated list of awesome Flynn related links.
 
 ## Contents
 
+- [Administration](#administration)
+	- [Auto Scale Rails Apps](https://github.com/WriteCodeEveryday/flynn_auto_scale)
+	- [Cluster Peer Discovery Server](https://github.com/flynn/flynn-discovery)
+	- [flynn-host State Cleaner](https://gist.github.com/lmars/cfb46fe104d1c17be8f22acf41c907e9)
 - [Applications](#applications)
 	- [Adminer](https://github.com/philiplb/adminer-on-flynn)
 	- [Ghost](https://github.com/flynn-examples/ghost-on-flynn)
 	- [Grafana](https://github.com/philiplb/flynn-grafana)
 	- [Sentry](https://github.com/flynn-examples/sentry-on-flynn)
 	- [Swagger UI](https://github.com/philiplb/swagger-ui-on-flynn)
-	- [WordPress](https://github.com/zomnium/flynn-wp)
-- [Administration](#administration)
-	- [Auto Scale Rails Apps](https://github.com/WriteCodeEveryday/flynn_auto_scale)
-	- [Cluster Peer Discovery Server](https://github.com/flynn/flynn-discovery)
-	- [flynn-host State Cleaner](https://gist.github.com/lmars/cfb46fe104d1c17be8f22acf41c907e9)
+	- [WordPress](https://github.com/zomnium/flynn-wp)	
 - [Examples](#examples)
 	- [Closure](https://github.com/flynn-examples/clojure-flynn-example) 
 	- [Go](https://github.com/flynn-examples/go-flynn-example)
