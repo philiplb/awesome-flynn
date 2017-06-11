@@ -15,6 +15,7 @@ This is a curated list of awesome Flynn related links.
 	- [Adminer](https://github.com/philiplb/adminer-on-flynn)
 	- [Ghost](https://github.com/flynn-examples/ghost-on-flynn)
 	- [Grafana](https://github.com/philiplb/flynn-grafana)
+	- [Metabase](https://github.com/por/metabase-flynn)
 	- [Sentry](https://github.com/flynn-examples/sentry-on-flynn)
 	- [Swagger UI](https://github.com/philiplb/swagger-ui-on-flynn)
 	- [WordPress](https://github.com/zomnium/flynn-wp)	
