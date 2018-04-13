@@ -12,6 +12,7 @@ This is a curated list of awesome Flynn related links.
 	- [Cluster Peer Discovery Server](https://github.com/flynn/flynn-discovery)
 	- [flynn-host State Cleaner](https://gist.github.com/lmars/cfb46fe104d1c17be8f22acf41c907e9)
 	- [lightcycle cluster management](https://github.com/greenfieldguild/lightcycle)
+  - [Flynn role for Ansible](https://github.com/StalkingKillah/ansible-flynn)
 - [Applications](#applications)
 	- [Adminer](https://github.com/philiplb/adminer-on-flynn)
 	- [Ghost](https://github.com/flynn-examples/ghost-on-flynn)
