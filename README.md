@@ -21,7 +21,7 @@ This is a curated list of awesome Flynn related links.
 - [Applications](#applications)
 	- [Adminer](https://github.com/philiplb/adminer-on-flynn)
 	- [Ghost](https://github.com/flynn-examples/ghost-on-flynn)
-	- [Grafana](https://github.com/philiplb/flynn-grafana)
+	- [Grafana](https://github.com/philiplb/grafana-on-flynn)
 	- [Metabase](https://github.com/por/metabase-flynn)
 	- [Piwik](https://github.com/creativecoder/piwik-heroku)
 	- [Sentry](https://github.com/flynn-examples/sentry-on-flynn)
