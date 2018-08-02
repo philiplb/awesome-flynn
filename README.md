@@ -1,3 +1,4 @@
+
 Awesome Flynn
 =============
 
@@ -14,6 +15,7 @@ This is a curated list of awesome Flynn related links.
 	- [lightcycle cluster management](https://github.com/greenfieldguild/lightcycle)
   - [flynn-pgbackups performs automated backups of all postgres databases](https://github.com/mattyr/flynn-pgbackups)
   - [Generate Let's Encrypt certificates](https://github.com/afgallo/flynn-ssl-cert)
+  - [Flynn Certbot](https://github.com/nrempel/flynn-certbot)
 - [Deployment](#deployment)
   - [Flynn role for Ansible](https://github.com/StalkingKillah/ansible-flynn)
   - [Ansible role installs flynn in a cluster](https://github.com/gracco/ansible-flynn)
