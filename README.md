@@ -30,7 +30,7 @@ This is a curated list of awesome Flynn related links.
 	- [Swagger UI](https://github.com/philiplb/swagger-ui-on-flynn)
 	- [WordPress](https://github.com/zomnium/flynn-wp)
 - [Examples](#examples)
-	- [Closure](https://github.com/flynn-examples/clojure-flynn-example)
+	- [Clojure](https://github.com/flynn-examples/clojure-flynn-example)
 	- [Go](https://github.com/flynn-examples/go-flynn-example)
 	- [Gradle](https://github.com/flynn-examples/gradle-flynn-example)
 	- [Grails](https://github.com/flynn-examples/grails-flynn-example)
